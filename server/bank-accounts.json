@@ -1,0 +1,36 @@
+{
+    "1mmtsmh74l4i3xe5q": [
+        {
+            "cash": 20000,
+            "credit": 5000,
+            "availableToPull": 25000,
+            "bankId": "1mmtsmh74l4i3xe5r"
+        }
+    ],
+    "1mmtsmcosl4i405im": [
+        {
+            "cash": 4500,
+            "credit": 50,
+            "availableToPull": 4550,
+            "bankId": "1mmtsmcosl4i405in"
+        },
+        {
+            "cash": 1000,
+            "credit": 1000,
+            "availableToPull": 2000,
+            "bankId": "1mmtsmqnkl4i6iaqa"
+        },
+        {
+            "cash": 1000,
+            "credit": 1000,
+            "availableToPull": 2000,
+            "bankId": "1mmtsmqnkl4i6iaqa"
+        },
+        {
+            "cash": 0,
+            "credit": 1000,
+            "availableToPull": 1000,
+            "bankId": "1mmtsmqnkl4i6iaqa"
+        }
+    ]
+}
